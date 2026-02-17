@@ -69,25 +69,28 @@ I love learning new technologies and creating digital products that make a real 
 
 ## 🏅 Professional Certifications & Badges
 
-> 🎯 Verified certifications issued by IBM, Cisco and Credly platform.
+## 🏅 Certifications & Professional Badges
 
-<p align="center">
-  <a href="https://www.credly.com/badges/9a3e9882-194b-4d23-9c6b-a4fa90cebd91/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/5b6fe1d7-8b0f-4a66-bb7f-3f3eaa3c5a41/Networking_Basics.png" width="90" />
-  </a>
+🎯 Verified certifications issued by IBM, Cisco and Credly platform.
 
-  <a href="https://www.credly.com/badges/d7ca4454-5a61-4001-950f-83f1e9fab7ad/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/9e1e1cfa-5a61-4cc4-9c1d-4f93a4e5cc6f/Switching_Routing_Wireless_Essentials.png" width="90" />
-  </a>
+![Cisco](https://img.shields.io/badge/Cisco-CCNA-blue)
+![IBM](https://img.shields.io/badge/IBM-Certified-lightgrey)
+![Credly](https://img.shields.io/badge/Credly-Verified-orange)
 
-  <a href="https://www.credly.com/badges/0ccc4342-ce63-4260-942b-6d4c1e43eb41/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/57c77c2c-6ed0-4e74-a1a2-88f5f8d0e7db/Project_Management_Fundamentals.png" width="90" />
-  </a>
+### 📜 Certifications list
 
-  <a href="https://www.credly.com/badges/b6ee2723-21ea-484b-878b-50456a47afde/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/6c0b56e2-2d1b-4a89-bd8d-9c4a6e91c9e7/Web_Development_Fundamentals.png" width="90" />
-  </a>
-</p>
+- **CCNA: Introduction to Networks**  
+  🔗 https://www.credly.com/badges/9a3e9882-194b-4d23-9c6b-a4fa90cebd91/public_url  
+
+- **CCNA: Switching, Routing and Wireless Essentials**  
+  🔗 https://www.credly.com/badges/d7ca4454-5a61-4001-950f-83f1e9fab7ad/public_url  
+
+- **Project Management Fundamentals**  
+  🔗 https://www.credly.com/badges/0ccc4342-ce63-4260-942b-6d4c1e43eb41/public_url  
+
+- **Web Development Fundamentals**  
+  🔗 https://www.credly.com/badges/b6ee2723-21ea-484b-878b-50456a47afde/public_url  
+
 
 ### 📜 Certifications List
 - **CCNA: Introduction to Networks**  
@@ -168,16 +171,12 @@ Universidad Tecnológica del Valle de Toluca (2021 – 2023)
 - Continuous learning  
 
 ---
+## 📊 GitHub Statistics
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joana2406&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joana2406&show_icons=true&theme=chartreuse-dark" />
-</p>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joana2406&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joana2406&layout=compact&theme=chartreuse-dark" />
-</p>
 
 ---
 
